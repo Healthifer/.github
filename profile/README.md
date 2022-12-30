@@ -1,4 +1,4 @@
-# HEALTHIFIER
+# HEALTHIFER : The Medical Justice
 
 ### A Final Year Major Project for 4th Semester, B.Tech, Computer Science and Engineering, SRMIST-Kattankulathur
 
