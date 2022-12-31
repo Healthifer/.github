@@ -2,4 +2,5 @@
 
 ### A Final Year Major Project for 4th Semester, B.Tech, Computer Science and Engineering, SRMIST-Kattankulathur
 
-![Healthifier](https://user-images.githubusercontent.com/64016811/210102811-b6a25728-c211-4334-8c29-bfff3e60f19f.png)
+![healthifer](https://user-images.githubusercontent.com/64016811/210127250-b7238863-31a9-47c9-89da-6191ed633f77.png)
+
